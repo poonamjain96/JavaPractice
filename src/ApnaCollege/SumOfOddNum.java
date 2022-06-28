@@ -24,4 +24,4 @@ public class SumOfOddNum {
     }
 }
 
-//.java --> java compiler [java code into bycode] --> .class --> lower language which is understandable to machine
+//.java --> java compiler [jgava code into bycode] --> .class --> lower language which is understandable to machine
